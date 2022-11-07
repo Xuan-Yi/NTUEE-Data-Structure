@@ -2,9 +2,7 @@
 CC=g++
 CFLAGS=-std=c++14 -O2
 LDFLAGS=-lstdc++
-TARGET=bst
-indir =inputs
-outdir=outputs
+TARGET=bst compare
 
 
 
