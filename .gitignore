@@ -1,3 +1,19 @@
+B09901080
+pa1/bst
+
+# Documents
+*.doc
+*.docx
+*.xlsx
+
+# Intelligence
+.vscode
+pa1/.vscode
+
+# ZIP files
+*.7z
+*.zip
+
 # Prerequisites
 *.d
 
