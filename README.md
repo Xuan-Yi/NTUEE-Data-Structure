@@ -1,5 +1,5 @@
 # Introduction
-* This is programming assignment 1 (PA1) for NTUEE Data Structure, taught by Professor Chan in Autumn 2022.
+* This is programming assignment 1 (PA1) for NTUEE Data Structure, taught by Prof. Ho-Lin Chen in Autumn 2022.
 * It involves constructing a binary search tree from an unknown tree's post-order output and performing operations on it. For more information, refer to the doc/report.pdf and codes.
 
 # Makefile Commands
